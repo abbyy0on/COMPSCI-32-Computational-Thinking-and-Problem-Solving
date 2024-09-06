@@ -8,6 +8,4 @@ WRITTEN EXPLANATIONS ON HOW TO RUN CODE: In Replit:
 3. Download data files from GITHUB
 4. Input your school district number
 5. Run "python app.py"
-6. You should be able to obtain statistics.
-
-7. 
+6. You should be able to obtain statistics. 
